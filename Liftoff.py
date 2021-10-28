@@ -1,4 +1,4 @@
-# Compares the palyer's guess tot the secret to the secret code by looking at each digit, one at a time. 
+# Compares the player's guess to the secret code by looking at each digit, one at a time. 
 
 def compare_guess(secret_code, guess) :
     
